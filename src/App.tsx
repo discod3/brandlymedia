@@ -125,7 +125,7 @@ function App() {
             </motion.div>
             
             <h1 className="text-6xl md:text-8xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
-              Brandly Media
+              Brandly
             </h1>
             
             <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto mb-12">
